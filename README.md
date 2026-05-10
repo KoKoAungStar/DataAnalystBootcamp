@@ -2,7 +2,11 @@
 
 A collection of real-world data analysis projects covering **SQL**, **Python**, **Excel**, and **Tableau**.
 
+<div align="center">
+
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View%20Live%20Dashboard-1F4E79?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ko.ko.aung/viz/AirBnBFullProject_17241921330310/Dashboard1?publish=yes)
+
+</div>
 
 ---
 
@@ -121,7 +125,11 @@ Analyzes AirBnB listing data to uncover pricing trends, revenue patterns, and lo
 
 ### Dashboard
 
+<div align="center">
+
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View%20Live%20Dashboard-1F4E79?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ko.ko.aung/viz/AirBnBFullProject_17241921330310/Dashboard1?publish=yes)
+
+</div>
 
 ---
 
